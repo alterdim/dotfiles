@@ -1,0 +1,11 @@
+br:test
+https://www.speedtest.net/
+https://www.speedtest.net/about/knowledge
+br:moodle.unige.ch
+https://moodle.unige.ch/
+https://wayf.switch.ch/SWITCHaai/WAYF?entityID=https%3A%2F%2Fmoodle.unige.ch%2Fshibboleth&return=https%3A%2F%2Fmoodle.unige.ch%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A9dec6b951b77c7faf341c775614ccf50b8c6ffcd5b38069a9f1d13954f05f824
+https://login.eduid.ch/idp/profile/handle-error?eventKey=stale&eventId=NoSuchFlowExecutionException
+br:permanent alias arch
+br:chawan change default browser
+ddg: chawan available searh engines
+https://terminaltrove.com/chawan/
